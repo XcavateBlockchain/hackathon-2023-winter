@@ -1,0 +1,6 @@
+[submodule "projects/01-Xcavate-team/src/MVP_Backend"]
+	path = projects/01-Xcavate-team/src/MVP_Backend
+	url = https://github.com/XcavateBlockchain/MVP_Backend
+[submodule "projects/01-Xcavate-team/src/MVP_Frontend"]
+	path = projects/01-Xcavate-team/src/MVP_Frontend
+	url = https://github.com/XcavateBlockchain/MVP_Frontend
