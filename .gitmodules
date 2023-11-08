@@ -7,3 +7,6 @@
 [submodule "projects/01-Xcavate-team/src/Xcavate_Node"]
 	path = projects/01-Xcavate-team/src/Xcavate_Node
 	url = https://github.com/XcavateBlockchain/Xcavate_Node
+[submodule "projects/01-Xcavate-team/src/tanssi"]
+	path = projects/01-Xcavate-team/src/tanssi
+	url = https://github.com/XcavateBlockchain/tanssi
