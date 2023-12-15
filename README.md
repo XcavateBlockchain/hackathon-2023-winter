@@ -37,4 +37,4 @@ The Project Manager would create the project by filling in the form and uploadin
 
 However, it is not a passive donation and the NFT holder can vote on the various stages on the specific project their NFT relates to. Only after a majority of NFT holders have accepted the evidence provided by the Project Manager, can the next tranche of funds be realesed to the Project Managers wallet. This voting happens at ever stage of the project. If the project receives a majority "no" vote then the remaining funds are returned to the NFT holders and the NFTs burned.
 
-[https://xcavate.io/hackathon/Xcavate_realXchange_technical.jpg]
+![Xcavate Technical Diagram] (https://xcavate.io/hackathon/Xcavate_realXchange_technical.jpg)
