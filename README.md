@@ -17,11 +17,11 @@ The Xcavate blockchain protocol aims to tackle these issues by leveraging the po
 
 ## Already completed - before Polkadot Winter Hackathon start date 01-11-2023
 
-We had build a custom substrate / Tanssi node with specific custom pallets on a basic verion 1 for Community Loan Pool (lending for new build real estate projects), NFT marketplace (Buying & selling fractional real estate) and Xcavate staking pallet. We had launched this successfully on the Tanssi testnet. The repos are the old version before the start of the hackathon. 
+We had build a custom substrate / Tanssi node with specific custom pallets on a basic verion 1 for Community Loan Pool (lending for new build real estate projects), NFT marketplace (Buying & selling fractional real estate) and Xcavate staking pallet. We had launched this successfully on the Tanssi testnet. These repos are the old version before the start of the hackathon. 
 
 - Tanssi node Github repo: https://github.com/XcavateBlockchain/tanssi/tree/1356707bc3a248c00340ec552dcef4b0d1517ff4
 
-Additional we have a local substrate node where we are working on for testing.
+We also have a local substrate node on which we work and test.
 
 - Xcavate local node Github repo: https://github.com/XcavateBlockchain/Xcavate_Node/tree/1eecbdba2306fce0f7022c02c6f4b4d873e172c0
 
@@ -46,4 +46,3 @@ However, it is not a passive donation and the NFT holder can vote on the various
 https://xcavate.io/whitepaper
 
 ![Xcavate Technical Diagram] (https://xcavate.io/hackathon/Xcavate_realXchange_technical.jpg)
-
