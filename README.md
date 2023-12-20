@@ -19,7 +19,11 @@ The Xcavate blockchain protocol aims to tackle these issues by leveraging the po
 
 We had build a custom substrate / Tanssi node with specific custom pallets for both Community Loan Pool (lending for new build real estate projects) & NFT marketplace (Buying & selling fractional real estate). We had launched this successfully on the Tanssi testnet.
 
-- Tanssi node Github repo: https://github.com/XcavateBlockchain/tanssi
+- Tanssi node Github repo: https://github.com/XcavateBlockchain/tanssi/tree/1356707bc3a248c00340ec552dcef4b0d1517ff4
+
+Additional we have a local substrate node where we are working on for testing.
+
+- Xcavate local node Github repo: https://github.com/XcavateBlockchain/Xcavate_Node/tree/1eecbdba2306fce0f7022c02c6f4b4d873e172c0
 
 We had also built a frontend dApp which leveraged the Kilt protocol so digital identifers and verifiable credentials could be used to confirm KYC/KYB prior to
 
