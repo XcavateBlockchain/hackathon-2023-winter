@@ -45,6 +45,10 @@ However, it is not a passive donation and the NFT holder can vote on the various
 
 https://xcavate.io/whitepaper
 
-## Documentation
+## Full Documentation
 
 https://xcavate-1.gitbook.io/xcavate-docs/
+
+## realXchange Documentation
+
+https://xcavate-1.gitbook.io/xcavate-docs/realxchange-dapp
